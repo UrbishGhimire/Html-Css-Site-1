@@ -1,0 +1,189 @@
+body {
+  color: #40514E;
+  text-align: center;
+  margin: 0;
+  background-color: #f0f8ff;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  padding-top: 10%;
+
+}
+
+.intro-h1 {
+  font-size: 5.625rem;
+  margin: 0px auto 0 auto;
+  font-family: 'Kalam', cursive;
+  font-weight: 300;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  position: relative;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 2.3rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+
+
+.CS {
+  text-decoration: underline;
+}
+
+.top-cloud {
+
+  position: absolute;
+  right: 25%;
+  top: 8%
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 45%;
+  left: 20%;
+}
+
+.mountain {
+  margin-bottom: 0;
+  height: auto;
+  width: auto;
+}
+
+.middle-container {
+  margin-top: 80px;
+  margin-bottom: 0;
+}
+
+.Profile-Picture {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.workspace {
+  height: auto;
+  width: 25%;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.hit {
+  height: auto;
+  width: 25%;
+  border-radius: 50%;
+  float: right;
+  margin-left: 30px;
+}
+
+.first-h3 {
+  color: #11999E;
+  font-size: 32px;
+  margin-bottom: 0;
+}
+
+.footer-link {
+  color: #11999E;
+  display: inline-block;
+  padding: 45px 30px 30px;
+  font-size: 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #EAF6F6;
+}
+
+p {
+  font-size: 20px;
+  font-family: 'Roboto Serif', serif;
+  padding-bottom: 64px;
+  line-height: 32px;
+}
+
+
+
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 0;
+  text-align: left;
+  line-height: 2;
+}
+
+hr {
+  border-top: 8px dotted #8c8b8b;
+
+  width: 90px;
+}
+
+.description {
+  padding-top: 64px;
+}
+
+.high-five {
+  margin-top: 0px;
+  color: #008c91;
+  font-size: 32px;
+}
+
+.skill-row2 {
+  width: 50%;
+  margin: auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.Last-h3 {
+  color: #04686b;
+}
+
+#bottom-container {
+  background-color: #66BFBF;
+}
+
+.last-paragraph {
+  color: #EAF6F6;
+  margin: 0;
+  font-size: 16px;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  text-shadow: 3px 3px 2px #000000;
+  -webkit-box-shadow: 3px 3px 22px #54f7e9;
+  -moz-box-shadow: 3px 3px 22px #54f7e9;
+  box-shadow: 3px 3px 22px #54f7e9;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  display: inline-block;
+  margin: 15px auto 100px;
+}
+
+
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
